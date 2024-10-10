@@ -1,4 +1,4 @@
-## Hi there, I'm DorafinaTech! 👋
+## Hi there, I'm Thessy-Emmanuel! 👋
 
 ### 🚀 Flutter Developer | Web Developer | Open Source Contributor
 
